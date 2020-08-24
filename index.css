@@ -1,0 +1,25 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    color: #2c3e50;
+    transition: all .5s ease-in-out;
+}
+
+.btu{
+cursor: pointer;
+}
+
+.clicked{
+    color: #8e44ad;
+}    
+
+.form,
+.greetings{
+    display: none;
+}
+
+.showing {
+    display: block;
+}
